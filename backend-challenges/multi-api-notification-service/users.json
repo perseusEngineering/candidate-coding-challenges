@@ -1,0 +1,186 @@
+[
+  {
+    "id": 42,
+    "sureName": "Turner",
+    "firstName": "Tom",
+    "gender": "male",
+    "email": "tom.turner@provider.de",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 43,
+    "sureName": "Doe",
+    "firstName": "John",
+    "gender": "male",
+    "email": "jon.doe@test-mailing.com",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 44,
+    "sureName": "Smith",
+    "firstName": "Karen",
+    "gender": "female",
+    "email": "k-smith@something.de",
+    "subscribedNewsletter": false
+  },
+  {
+    "id": 45,
+    "sureName": "Turner",
+    "firstName": "Maria",
+    "gender": "female",
+    "email": "maTur@somewhere.com",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 46,
+    "sureName": "Murphy",
+    "firstName": "Donald",
+    "gender": "male",
+    "email": "DoMu@provider.de",
+    "subscribedNewsletter": false
+  },
+  {
+    "id": 47,
+    "sureName": "Cooper",
+    "firstName": "Anne",
+    "gender": "female",
+    "email": "a.cooper@test-mail.com",
+    "subscribedNewsletter": true
+  },
+  {
+  "id": 48,
+  "sureName": "Goldsmith",
+  "firstName": "Peter",
+  "gender": "male",
+  "email": "p-goldsmith@provider.de",
+  "subscribedNewsletter": true
+},
+  {
+    "id": 49,
+    "sureName": "Smith",
+    "firstName": "Collin",
+    "gender": "male",
+    "email": "collin-smith@test-mailing.com",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 50,
+    "sureName": "Walker",
+    "firstName": "Karen",
+    "gender": "female",
+    "email": "karen-walker@something.de",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 51,
+    "sureName": "Coco",
+    "firstName": "Scrapy",
+    "gender": "female",
+    "email": "coco-scrapy@somewhere.com",
+    "subscribedNewsletter": false
+  },
+  {
+    "id": 52,
+    "sureName": "Doe",
+    "firstName": "Craig",
+    "gender": "male",
+    "email": "DoeCraig@provider.de",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 53,
+    "sureName": "Kilbegan",
+    "firstName": "Caroline",
+    "gender": "female",
+    "email": "a.cooper@test-mail.com",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 54,
+    "sureName": "McGillan",
+    "firstName": "Johnathan",
+    "gender": "male",
+    "email": "jmc@test-mailing.com",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 55,
+    "sureName": "Wright",
+    "firstName": "Samy",
+    "gender": "female",
+    "email": "s.wright@something.de",
+    "subscribedNewsletter": false
+  },
+  {
+    "id": 56,
+    "sureName": "McCallan",
+    "firstName": "Maria",
+    "gender": "female",
+    "email": "marmccal@somewhere.com",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 57,
+    "sureName": "Allen",
+    "firstName": "Joe",
+    "gender": "male",
+    "email": "joe-allen@provider.de",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 58,
+    "sureName": "Davis",
+    "firstName": "Caroline",
+    "gender": "female",
+    "email": "c-davis@test-mail.com",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 59,
+    "sureName": "Kerry",
+    "firstName": "Craig",
+    "gender": "male",
+    "email": "craigKerryh@provider.de",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 60,
+    "sureName": "Williams",
+    "firstName": "Gerard",
+    "gender": "male",
+    "email": "williams-gerard@test-mailing.com",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 61,
+    "sureName": "Miller",
+    "firstName": "Kirsten",
+    "gender": "female",
+    "email": "kmiller@something.de",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 62,
+    "sureName": "Brown",
+    "firstName": "Kathy",
+    "gender": "female",
+    "email": "brown.kathy@somewhere.com",
+    "subscribedNewsletter": false
+  },
+  {
+    "id": 63,
+    "sureName": "Jones",
+    "firstName": "Thomas",
+    "gender": "male",
+    "email": "tom-jones@provider.de",
+    "subscribedNewsletter": true
+  },
+  {
+    "id": 64,
+    "sureName": "Wright",
+    "firstName": "Carolina",
+    "gender": "female",
+    "email": "caro-wright@test-mail.com",
+    "subscribedNewsletter": true
+  }
+]

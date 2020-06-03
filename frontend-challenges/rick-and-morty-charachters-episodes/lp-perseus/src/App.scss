@@ -1,0 +1,67 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+.perseus-header {
+  border-bottom: 2px solid #ccc;
+  display: block;
+
+  .perseus-logo {
+    height: 73px;
+    pointer-events: none;
+    width: 73px;
+  }
+
+  #perseus-site-title {
+    margin-top: 1rem;
+  }
+}
+
+.perseus-body-section {
+  margin-top: 1rem;
+
+  #perseus-search-character {
+    width: 300px;
+  }
+  .perseus-character-wrapper {
+    background: beige;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    position: relative;
+
+    &:hover {
+      border: 2px solid black;
+      cursor: pointer;
+    }
+
+    .perseus-character-logo {
+      margin-bottom: 0.5rem;
+      width: 100%;
+    }
+
+    .perseus-character-species {
+      background: #333;
+      border-radius: 4px;
+      color: white;
+      left: 1rem;
+      padding: 0.5rem 1rem;
+      position: absolute;
+      top: 1rem;
+    }
+  }
+
+  .perseus-pagination {
+    margin-bottom: 1rem;
+
+    .btn + .btn {
+      margin-left: 1rem;
+    }
+
+    .perseus-pagination-range {
+      margin-right: 1rem;
+    }
+  }
+}
+.perseus-mb-1 {
+  margin-bottom: 1rem;
+}

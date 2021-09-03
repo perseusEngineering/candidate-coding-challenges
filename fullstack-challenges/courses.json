@@ -1,0 +1,38 @@
+[
+  {
+    "id": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "title": "What is cyber security?",
+    "description": "Learn what is cyber security and how to get your company safer.",
+    "publishedAt": "2020-11-22T06:39:41.803Z"
+  },
+  {
+    "id": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "title": "Protect yourself against Phishing",
+    "description": "Learn what is important to notice in an email to not get phished",
+    "publishedAt": "2020-12-28T17:24:20.285Z"
+  },
+  {
+    "id": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "title": "GDPR",
+    "description": "What is GDPR and how it affects your company?",
+    "publishedAt": "2021-02-01T01:08:10.231Z"
+  },
+  {
+    "id": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "title": "Darknet",
+    "description": "Is your data spread in the Darknet? Why does it matter?",
+    "publishedAt": "2020-11-11T06:05:52.727Z"
+  },
+  {
+    "id": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "title": "How do Hackers act?",
+    "description": "Cyber Criminals & Information handling",
+    "publishedAt": "2020-10-07T15:36:01.323Z"
+  },
+  {
+    "id": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "title": "Internet & Smart Home",
+    "description": "Learn how to protect the devices you use at home",
+    "publishedAt": "2021-04-05T01:24:19.286Z"
+  }
+]

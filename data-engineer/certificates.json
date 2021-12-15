@@ -1,0 +1,3002 @@
+[
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2021-05-30T14:19:55.636Z",
+    "startDate": "2021-04-06T07:37:30.547Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "61a3e302-5e4f-4804-81d0-1ac82860199b",
+    "completedDate": "2021-08-13T00:11:07.958Z",
+    "startDate": "2021-07-03T11:54:07.847Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "235eb8df-e224-43ee-9aea-567e9f33b675",
+    "completedDate": "2021-08-26T23:23:35.460Z",
+    "startDate": "2021-07-19T01:51:56.429Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+    "completedDate": "2021-06-20T23:05:01.351Z",
+    "startDate": "2021-03-04T19:25:26.862Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "b492386b-2b57-406e-b690-fc01ae8421c6",
+    "completedDate": "2021-06-17T19:34:42.556Z",
+    "startDate": "2021-04-20T12:50:48.229Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+    "completedDate": "2021-06-04T12:24:04.780Z",
+    "startDate": "2021-02-12T03:02:22.054Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+    "completedDate": "2021-02-06T00:44:58.770Z",
+    "startDate": "2020-12-20T14:26:44.001Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "37be897b-8f3d-4f55-a046-a094654c2859",
+    "completedDate": "2021-05-25T14:13:35.746Z",
+    "startDate": "2021-04-16T04:33:50.058Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "4e034428-23ee-4b55-80c0-25546b1757f3",
+    "completedDate": "2021-05-08T11:09:24.699Z",
+    "startDate": "2021-01-18T22:59:22.184Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+    "completedDate": "2021-05-31T01:39:52.609Z",
+    "startDate": "2021-02-14T22:58:30.104Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "a8dad57f-3711-408b-b32a-f58c79f0df95",
+    "completedDate": "2021-03-30T17:57:39.456Z",
+    "startDate": "2021-02-02T06:17:30.116Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "8eb38f5c-a281-4b49-a303-ecdb9898e96b",
+    "completedDate": "2021-03-06T21:15:23.021Z",
+    "startDate": "2021-03-05T07:17:43.340Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+    "completedDate": "2021-08-27T02:44:00.974Z",
+    "startDate": "2021-08-18T07:09:06.121Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "b6cdf6bf-9598-4856-a72e-de48cfffb728",
+    "completedDate": "2021-09-01T13:13:46.725Z",
+    "startDate": "2021-05-15T13:24:26.630Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "b6cdf6bf-9598-4856-a72e-de48cfffb728",
+    "completedDate": "2021-06-03T19:03:54.317Z",
+    "startDate": "2021-05-12T16:29:23.650Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+    "completedDate": "2021-09-03T00:16:11.546Z",
+    "startDate": "2021-08-03T22:46:16.543Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+    "completedDate": "2021-07-06T11:32:20.708Z",
+    "startDate": "2021-05-03T18:51:10.062Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+    "completedDate": "2021-04-30T14:23:45.607Z",
+    "startDate": "2021-03-07T23:27:28.295Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "a1ab041f-a49d-4fa0-9e15-97a60ad4f0a1",
+    "completedDate": "2021-08-08T23:39:56.698Z",
+    "startDate": "2021-06-10T13:44:57.872Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+    "completedDate": "2021-08-27T22:31:57.562Z",
+    "startDate": "2021-08-23T07:28:09.683Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "8eb38f5c-a281-4b49-a303-ecdb9898e96b",
+    "completedDate": "2021-08-07T13:48:07.775Z",
+    "startDate": "2021-07-08T06:03:29.264Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+    "completedDate": "2021-06-17T15:46:51.545Z",
+    "startDate": "2021-06-07T22:59:02.623Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2021-08-27T22:29:43.108Z",
+    "startDate": "2021-03-25T18:47:09.055Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "4e034428-23ee-4b55-80c0-25546b1757f3",
+    "completedDate": "2021-03-27T14:53:03.344Z",
+    "startDate": "2020-12-29T11:48:40.547Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+    "completedDate": "2021-08-05T08:21:54.241Z",
+    "startDate": "2021-03-01T19:40:20.779Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "e43b13b5-42aa-4a8f-8cfe-af2b2e1bfa66",
+    "completedDate": "2021-05-03T06:44:15.253Z",
+    "startDate": "2020-12-26T14:37:39.000Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "828025e4-ed38-473b-9176-3dbe23be6c16",
+    "completedDate": "2021-09-01T20:49:02.872Z",
+    "startDate": "2021-08-10T14:07:17.932Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "a3327af6-8572-477b-9ee0-a1755a881632",
+    "completedDate": "2021-08-31T20:08:21.309Z",
+    "startDate": "2021-02-16T05:55:37.109Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+    "completedDate": "2021-08-30T03:18:40.023Z",
+    "startDate": "2021-08-25T13:12:16.071Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+    "completedDate": "2021-07-20T01:18:32.938Z",
+    "startDate": "2021-05-30T05:54:15.547Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+    "completedDate": "2021-08-16T21:27:44.089Z",
+    "startDate": "2021-05-19T11:11:17.856Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+    "completedDate": "2021-08-21T15:17:30.493Z",
+    "startDate": "2021-01-12T11:14:02.821Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "a966240c-8004-45f7-904e-f4c0b1534a30",
+    "completedDate": "2021-08-26T16:33:37.138Z",
+    "startDate": "2021-06-26T16:19:05.342Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "235eb8df-e224-43ee-9aea-567e9f33b675",
+    "completedDate": "2021-07-27T14:35:51.955Z",
+    "startDate": "2021-07-21T00:47:24.587Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+    "completedDate": "2021-06-02T02:22:25.039Z",
+    "startDate": "2021-04-13T19:50:03.415Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+    "completedDate": "2021-04-20T06:55:35.111Z",
+    "startDate": "2021-04-01T01:28:27.874Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "9b728ea9-752c-4c1f-a5ee-b740dc42d718",
+    "completedDate": "2021-08-19T18:04:36.623Z",
+    "startDate": "2021-08-11T05:18:07.730Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+    "completedDate": "2021-07-15T08:10:27.338Z",
+    "startDate": "2021-03-28T04:32:57.740Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+    "completedDate": "2021-08-08T23:00:16.514Z",
+    "startDate": "2021-01-13T03:53:15.994Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+    "completedDate": "2021-07-03T11:58:18.476Z",
+    "startDate": "2021-06-23T06:09:36.321Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+    "completedDate": "2021-07-26T15:34:41.261Z",
+    "startDate": "2021-07-23T19:08:38.480Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "4e034428-23ee-4b55-80c0-25546b1757f3",
+    "completedDate": "2021-08-29T05:49:21.965Z",
+    "startDate": "2021-08-20T03:39:31.955Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "828025e4-ed38-473b-9176-3dbe23be6c16",
+    "completedDate": "2021-07-07T00:48:22.304Z",
+    "startDate": "2021-05-30T03:10:34.426Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "69491f48-6602-4092-bde0-8e240ea5dd68",
+    "completedDate": "2021-05-26T06:49:40.154Z",
+    "startDate": "2021-04-11T17:01:07.952Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+    "completedDate": "2021-07-07T08:23:02.863Z",
+    "startDate": "2021-05-23T01:59:46.747Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+    "completedDate": "2021-08-10T15:07:46.819Z",
+    "startDate": "2021-08-07T01:16:31.267Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "b2483bc5-99b5-4bc0-8337-f78af5227272",
+    "completedDate": "2021-03-16T08:13:06.790Z",
+    "startDate": "2021-02-14T13:13:43.749Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-09-02T16:40:12.718Z",
+    "startDate": "2020-10-26T20:46:14.861Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "b2483bc5-99b5-4bc0-8337-f78af5227272",
+    "completedDate": "2021-07-02T15:04:18.132Z",
+    "startDate": "2021-06-30T06:51:18.781Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "b492386b-2b57-406e-b690-fc01ae8421c6",
+    "completedDate": "2021-07-22T13:01:31.272Z",
+    "startDate": "2021-06-28T13:19:09.186Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "b492386b-2b57-406e-b690-fc01ae8421c6",
+    "completedDate": "2021-08-17T15:55:33.199Z",
+    "startDate": "2021-08-10T22:58:09.725Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+    "completedDate": "2021-08-25T01:18:42.713Z",
+    "startDate": "2021-08-16T23:20:58.841Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+    "completedDate": "2021-09-02T23:21:01.815Z",
+    "startDate": "2021-08-31T03:20:18.113Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "f5b8371d-659a-4831-90df-eedce9e2e114",
+    "completedDate": "2021-07-30T12:12:45.649Z",
+    "startDate": "2021-05-31T07:27:41.682Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+    "completedDate": "2021-04-13T04:11:56.644Z",
+    "startDate": "2021-03-25T14:58:12.272Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+    "completedDate": "2021-08-02T20:14:45.501Z",
+    "startDate": "2021-07-02T15:15:51.459Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+    "completedDate": "2021-07-22T06:29:39.812Z",
+    "startDate": "2021-06-02T16:08:02.582Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "9eb6617d-6ea4-44fb-ba2b-6938a825bb4a",
+    "completedDate": "2021-08-20T22:03:30.466Z",
+    "startDate": "2021-07-04T00:59:30.094Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+    "completedDate": "2021-01-02T14:42:19.478Z",
+    "startDate": "2020-11-24T01:19:50.268Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+    "completedDate": "2021-06-22T03:15:14.278Z",
+    "startDate": "2021-04-10T11:31:32.795Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+    "completedDate": "2021-05-23T20:03:12.896Z",
+    "startDate": "2021-04-07T06:16:01.315Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "1b34818a-5d6f-4537-8266-398db47c786e",
+    "completedDate": "2021-07-04T04:33:09.591Z",
+    "startDate": "2021-06-28T14:59:34.073Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "61a3e302-5e4f-4804-81d0-1ac82860199b",
+    "completedDate": "2021-08-06T02:11:29.691Z",
+    "startDate": "2021-02-27T07:19:29.921Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-07-11T15:44:52.028Z",
+    "startDate": "2021-04-07T05:13:36.857Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+    "completedDate": "2021-07-14T01:27:50.403Z",
+    "startDate": "2021-04-07T08:22:15.011Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "4e034428-23ee-4b55-80c0-25546b1757f3",
+    "completedDate": "2021-08-24T23:14:57.262Z",
+    "startDate": "2020-12-19T21:00:53.061Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+    "completedDate": "2021-08-16T07:43:37.554Z",
+    "startDate": "2021-07-12T20:13:27.097Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "e43b13b5-42aa-4a8f-8cfe-af2b2e1bfa66",
+    "completedDate": "2021-09-03T03:18:59.554Z",
+    "startDate": "2021-08-21T09:08:17.366Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+    "completedDate": "2021-03-22T02:14:48.977Z",
+    "startDate": "2021-03-06T15:48:08.822Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+    "completedDate": "2021-05-25T16:19:26.289Z",
+    "startDate": "2021-03-29T04:45:09.440Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "8eb38f5c-a281-4b49-a303-ecdb9898e96b",
+    "completedDate": "2021-08-28T18:27:29.361Z",
+    "startDate": "2021-04-18T00:10:29.926Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+    "completedDate": "2021-07-05T23:25:03.131Z",
+    "startDate": "2021-06-13T21:38:13.253Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "a1ab041f-a49d-4fa0-9e15-97a60ad4f0a1",
+    "completedDate": "2021-08-27T13:31:03.626Z",
+    "startDate": "2021-04-21T01:05:52.666Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "a3327af6-8572-477b-9ee0-a1755a881632",
+    "completedDate": "2021-08-19T09:55:03.050Z",
+    "startDate": "2021-08-03T01:08:34.486Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "4694a8cd-6985-442a-b4c3-98a809a13888",
+    "completedDate": "2021-08-10T13:49:14.274Z",
+    "startDate": "2021-05-23T18:12:28.569Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "1b34818a-5d6f-4537-8266-398db47c786e",
+    "completedDate": "2021-08-08T02:30:15.492Z",
+    "startDate": "2021-07-27T05:48:10.844Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "3791a8b6-ba07-4cdb-a525-4b86f96c463a",
+    "completedDate": "2021-08-30T23:29:49.438Z",
+    "startDate": "2021-07-10T17:28:48.541Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-08-06T05:05:03.618Z",
+    "startDate": "2021-07-01T12:00:11.175Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "37be897b-8f3d-4f55-a046-a094654c2859",
+    "completedDate": "2021-04-09T17:46:48.735Z",
+    "startDate": "2021-01-17T06:23:00.574Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "37be897b-8f3d-4f55-a046-a094654c2859",
+    "completedDate": "2021-07-12T18:07:39.443Z",
+    "startDate": "2021-05-02T08:29:26.022Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "4e034428-23ee-4b55-80c0-25546b1757f3",
+    "completedDate": "2021-05-04T06:27:58.458Z",
+    "startDate": "2021-01-27T13:21:58.498Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "a8dad57f-3711-408b-b32a-f58c79f0df95",
+    "completedDate": "2021-05-13T09:14:17.708Z",
+    "startDate": "2021-04-02T12:21:04.051Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+    "completedDate": "2021-07-26T20:15:21.158Z",
+    "startDate": "2021-07-11T13:14:57.627Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "6516f845-9742-4e84-bf92-dbaf024029f5",
+    "completedDate": "2021-08-19T11:25:08.042Z",
+    "startDate": "2021-07-28T07:05:26.079Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+    "completedDate": "2021-07-04T00:23:49.907Z",
+    "startDate": "2021-02-05T07:35:18.650Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "6237b65b-6a0b-4add-acec-a37fff834804",
+    "completedDate": "2021-07-05T16:52:05.824Z",
+    "startDate": "2020-12-01T23:02:55.874Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "3791a8b6-ba07-4cdb-a525-4b86f96c463a",
+    "completedDate": "2021-05-28T13:57:12.276Z",
+    "startDate": "2021-02-09T11:06:33.835Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-08-20T17:51:50.546Z",
+    "startDate": "2021-08-01T05:01:25.779Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+    "completedDate": "2021-06-10T21:59:48.511Z",
+    "startDate": "2020-12-05T02:07:07.950Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "9b728ea9-752c-4c1f-a5ee-b740dc42d718",
+    "completedDate": "2021-04-30T11:10:23.896Z",
+    "startDate": "2021-03-19T21:56:01.176Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "6516f845-9742-4e84-bf92-dbaf024029f5",
+    "completedDate": "2021-04-16T00:54:28.317Z",
+    "startDate": "2021-03-15T05:28:56.129Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+    "completedDate": "2021-01-19T14:46:40.757Z",
+    "startDate": "2020-12-11T18:39:22.806Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "b6cdf6bf-9598-4856-a72e-de48cfffb728",
+    "completedDate": "2021-08-22T22:29:18.027Z",
+    "startDate": "2021-06-15T04:37:36.048Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "3791a8b6-ba07-4cdb-a525-4b86f96c463a",
+    "completedDate": "2021-09-01T07:36:24.004Z",
+    "startDate": "2021-08-20T23:32:13.921Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+    "completedDate": "2020-12-27T22:57:19.749Z",
+    "startDate": "2020-12-19T12:56:48.038Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+    "completedDate": "2021-07-15T23:42:45.761Z",
+    "startDate": "2021-05-16T06:18:44.440Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+    "completedDate": "2021-04-26T09:17:58.502Z",
+    "startDate": "2021-04-19T10:37:42.641Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+    "completedDate": "2021-06-13T22:47:05.487Z",
+    "startDate": "2020-11-29T22:14:39.197Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "a966240c-8004-45f7-904e-f4c0b1534a30",
+    "completedDate": "2021-08-29T14:19:01.947Z",
+    "startDate": "2021-08-10T01:10:11.778Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "a966240c-8004-45f7-904e-f4c0b1534a30",
+    "completedDate": "2021-05-23T17:23:53.646Z",
+    "startDate": "2021-05-22T14:31:48.306Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+    "completedDate": "2021-08-01T13:20:45.852Z",
+    "startDate": "2021-06-24T08:25:10.927Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+    "completedDate": "2021-03-31T12:41:36.588Z",
+    "startDate": "2020-10-31T10:03:55.176Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "f5b8371d-659a-4831-90df-eedce9e2e114",
+    "completedDate": "2021-05-05T02:47:53.912Z",
+    "startDate": "2021-03-30T04:06:39.798Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+    "completedDate": "2021-05-26T02:28:07.602Z",
+    "startDate": "2021-03-21T19:34:24.681Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "3791a8b6-ba07-4cdb-a525-4b86f96c463a",
+    "completedDate": "2021-04-20T21:15:15.906Z",
+    "startDate": "2021-02-10T10:20:43.024Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+    "completedDate": "2021-04-25T07:27:40.156Z",
+    "startDate": "2020-12-25T19:09:51.455Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "69491f48-6602-4092-bde0-8e240ea5dd68",
+    "completedDate": "2021-06-25T12:15:33.392Z",
+    "startDate": "2021-02-06T10:13:40.861Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "6237b65b-6a0b-4add-acec-a37fff834804",
+    "completedDate": "2021-07-23T08:06:02.326Z",
+    "startDate": "2021-02-25T00:19:43.312Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "235eb8df-e224-43ee-9aea-567e9f33b675",
+    "completedDate": "2021-06-27T02:56:50.021Z",
+    "startDate": "2021-05-02T18:19:23.520Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "923f2b06-7bf9-45ec-a362-ad81ebd86137",
+    "completedDate": "2021-09-01T09:59:21.134Z",
+    "startDate": "2021-04-07T10:15:57.324Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+    "completedDate": "2021-05-28T09:31:06.940Z",
+    "startDate": "2021-05-12T17:02:54.185Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+    "completedDate": "2021-07-14T11:46:48.562Z",
+    "startDate": "2021-03-14T15:20:40.649Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "dc2c9c95-81ce-48d7-b99f-b300575373fe",
+    "completedDate": "2021-06-17T00:08:11.958Z",
+    "startDate": "2021-04-30T11:58:51.205Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "235eb8df-e224-43ee-9aea-567e9f33b675",
+    "completedDate": "2021-08-23T16:46:27.613Z",
+    "startDate": "2021-08-05T21:52:58.813Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+    "completedDate": "2021-07-15T04:21:54.790Z",
+    "startDate": "2021-01-05T04:05:17.313Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+    "completedDate": "2021-06-19T21:01:23.124Z",
+    "startDate": "2021-05-12T17:52:08.476Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+    "completedDate": "2021-08-12T23:04:27.960Z",
+    "startDate": "2021-01-22T00:14:04.585Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+    "completedDate": "2021-06-08T16:29:55.128Z",
+    "startDate": "2021-06-02T15:58:54.160Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "3791a8b6-ba07-4cdb-a525-4b86f96c463a",
+    "completedDate": "2021-05-26T11:34:18.350Z",
+    "startDate": "2021-04-25T17:54:35.110Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+    "completedDate": "2021-08-12T15:48:02.436Z",
+    "startDate": "2020-12-16T12:12:08.885Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "61a3e302-5e4f-4804-81d0-1ac82860199b",
+    "completedDate": "2021-07-20T23:39:50.187Z",
+    "startDate": "2021-02-07T22:38:06.892Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+    "completedDate": "2021-07-20T01:26:15.410Z",
+    "startDate": "2021-04-03T01:56:20.390Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+    "completedDate": "2021-07-05T04:33:46.344Z",
+    "startDate": "2021-05-11T16:08:30.478Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+    "completedDate": "2021-08-07T12:48:39.999Z",
+    "startDate": "2021-04-11T12:29:16.825Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+    "completedDate": "2021-06-16T00:42:15.470Z",
+    "startDate": "2021-04-15T20:17:20.459Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "37be897b-8f3d-4f55-a046-a094654c2859",
+    "completedDate": "2021-07-22T13:48:28.241Z",
+    "startDate": "2021-05-23T05:36:39.666Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+    "completedDate": "2021-07-30T23:02:28.576Z",
+    "startDate": "2021-07-23T15:34:25.103Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+    "completedDate": "2021-08-14T12:32:11.567Z",
+    "startDate": "2021-08-13T22:27:14.604Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "a8dad57f-3711-408b-b32a-f58c79f0df95",
+    "completedDate": "2021-08-10T06:25:40.863Z",
+    "startDate": "2021-07-16T19:06:33.923Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+    "completedDate": "2021-08-06T00:03:20.920Z",
+    "startDate": "2021-06-19T17:45:19.600Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "828025e4-ed38-473b-9176-3dbe23be6c16",
+    "completedDate": "2021-06-26T10:46:09.279Z",
+    "startDate": "2021-06-17T17:26:17.929Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+    "completedDate": "2021-08-13T07:18:53.820Z",
+    "startDate": "2021-06-10T19:39:47.376Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "9b728ea9-752c-4c1f-a5ee-b740dc42d718",
+    "completedDate": "2021-08-29T03:14:02.171Z",
+    "startDate": "2021-05-22T11:36:53.374Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "f5b8371d-659a-4831-90df-eedce9e2e114",
+    "completedDate": "2021-08-02T18:39:55.697Z",
+    "startDate": "2021-06-25T03:52:36.901Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+    "completedDate": "2021-05-22T20:20:37.922Z",
+    "startDate": "2020-12-20T23:39:34.847Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+    "completedDate": "2021-05-07T17:45:53.753Z",
+    "startDate": "2021-03-07T06:28:56.023Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "596f1d83-63db-49e5-bb15-5236b40d4f45",
+    "completedDate": "2021-08-18T18:25:37.090Z",
+    "startDate": "2021-08-16T01:43:54.348Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+    "completedDate": "2021-05-30T09:23:02.789Z",
+    "startDate": "2021-04-20T21:39:44.249Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+    "completedDate": "2021-04-03T06:00:38.772Z",
+    "startDate": "2021-01-18T15:26:19.245Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "37be897b-8f3d-4f55-a046-a094654c2859",
+    "completedDate": "2021-08-30T23:43:23.971Z",
+    "startDate": "2021-03-20T01:57:54.759Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "6237b65b-6a0b-4add-acec-a37fff834804",
+    "completedDate": "2021-07-21T14:30:01.244Z",
+    "startDate": "2021-06-13T19:21:23.952Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "235eb8df-e224-43ee-9aea-567e9f33b675",
+    "completedDate": "2021-04-20T06:42:43.391Z",
+    "startDate": "2021-04-19T21:13:12.806Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "364df166-d9e4-4d86-8160-c112a6aecc52",
+    "completedDate": "2021-04-02T19:23:54.711Z",
+    "startDate": "2021-01-04T22:03:35.833Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+    "completedDate": "2021-05-07T06:09:29.478Z",
+    "startDate": "2020-11-10T13:35:53.202Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "4694a8cd-6985-442a-b4c3-98a809a13888",
+    "completedDate": "2021-07-02T12:05:20.316Z",
+    "startDate": "2021-05-15T09:56:34.719Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "dc2c9c95-81ce-48d7-b99f-b300575373fe",
+    "completedDate": "2021-09-02T17:29:00.644Z",
+    "startDate": "2021-08-29T04:09:02.141Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "69491f48-6602-4092-bde0-8e240ea5dd68",
+    "completedDate": "2021-08-14T04:34:13.113Z",
+    "startDate": "2021-08-13T08:13:26.966Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+    "completedDate": "2021-06-15T08:41:32.962Z",
+    "startDate": "2021-03-13T03:46:07.296Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+    "completedDate": "2021-08-30T05:44:03.335Z",
+    "startDate": "2021-07-14T14:31:09.044Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "a966240c-8004-45f7-904e-f4c0b1534a30",
+    "completedDate": "2021-03-04T08:50:29.212Z",
+    "startDate": "2020-11-29T11:22:45.797Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+    "completedDate": "2021-07-11T06:26:26.628Z",
+    "startDate": "2021-06-21T01:13:46.544Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "a8616076-7b2a-4d98-906a-157613d8aa01",
+    "completedDate": "2021-04-17T20:03:01.366Z",
+    "startDate": "2020-10-11T08:35:47.119Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "6237b65b-6a0b-4add-acec-a37fff834804",
+    "completedDate": "2021-04-28T21:18:22.433Z",
+    "startDate": "2021-02-21T21:57:34.442Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+    "completedDate": "2021-03-24T18:30:36.983Z",
+    "startDate": "2021-02-23T19:01:33.802Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2021-07-16T04:10:31.216Z",
+    "startDate": "2021-05-01T03:11:21.252Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "a3327af6-8572-477b-9ee0-a1755a881632",
+    "completedDate": "2021-08-29T08:05:13.835Z",
+    "startDate": "2021-04-07T18:27:21.322Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "4e034428-23ee-4b55-80c0-25546b1757f3",
+    "completedDate": "2021-07-03T01:44:46.421Z",
+    "startDate": "2021-06-11T14:16:12.139Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "6237b65b-6a0b-4add-acec-a37fff834804",
+    "completedDate": "2021-07-09T15:10:53.137Z",
+    "startDate": "2021-07-05T02:24:32.108Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "6516f845-9742-4e84-bf92-dbaf024029f5",
+    "completedDate": "2021-07-24T03:10:05.840Z",
+    "startDate": "2021-02-17T10:40:34.911Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "e43b13b5-42aa-4a8f-8cfe-af2b2e1bfa66",
+    "completedDate": "2021-07-10T14:01:06.265Z",
+    "startDate": "2021-06-29T10:20:35.618Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "a8616076-7b2a-4d98-906a-157613d8aa01",
+    "completedDate": "2021-08-25T20:44:46.709Z",
+    "startDate": "2021-08-25T10:01:03.958Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+    "completedDate": "2021-08-25T21:19:59.797Z",
+    "startDate": "2021-07-17T15:11:59.480Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "b492386b-2b57-406e-b690-fc01ae8421c6",
+    "completedDate": "2021-08-05T04:27:35.509Z",
+    "startDate": "2021-02-01T10:41:23.481Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "9eb6617d-6ea4-44fb-ba2b-6938a825bb4a",
+    "completedDate": "2021-06-23T13:09:19.892Z",
+    "startDate": "2021-06-04T14:29:32.576Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "1b34818a-5d6f-4537-8266-398db47c786e",
+    "completedDate": "2021-07-28T10:42:57.664Z",
+    "startDate": "2021-07-27T22:18:07.981Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "a3327af6-8572-477b-9ee0-a1755a881632",
+    "completedDate": "2021-07-11T02:14:25.267Z",
+    "startDate": "2021-05-26T11:17:10.904Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "923f2b06-7bf9-45ec-a362-ad81ebd86137",
+    "completedDate": "2021-08-27T11:03:18.365Z",
+    "startDate": "2021-07-10T07:05:03.151Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "a8616076-7b2a-4d98-906a-157613d8aa01",
+    "completedDate": "2021-08-30T08:20:02.280Z",
+    "startDate": "2021-08-29T02:27:14.897Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "9b728ea9-752c-4c1f-a5ee-b740dc42d718",
+    "completedDate": "2021-06-28T12:01:41.186Z",
+    "startDate": "2021-02-07T01:26:09.637Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "1b34818a-5d6f-4537-8266-398db47c786e",
+    "completedDate": "2021-06-18T21:31:41.596Z",
+    "startDate": "2021-06-02T23:14:16.086Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-01-29T15:06:53.956Z",
+    "startDate": "2021-01-09T00:26:56.955Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+    "completedDate": "2021-08-05T16:41:43.194Z",
+    "startDate": "2021-04-30T23:29:03.707Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+    "completedDate": "2021-07-12T07:01:07.336Z",
+    "startDate": "2021-04-22T19:43:51.181Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+    "completedDate": "2021-08-09T14:27:10.038Z",
+    "startDate": "2021-07-11T11:28:26.853Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "dc2c9c95-81ce-48d7-b99f-b300575373fe",
+    "completedDate": "2021-07-28T11:12:19.666Z",
+    "startDate": "2021-07-21T18:20:20.807Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+    "completedDate": "2021-03-10T02:52:30.385Z",
+    "startDate": "2021-01-28T00:04:28.922Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "9eb6617d-6ea4-44fb-ba2b-6938a825bb4a",
+    "completedDate": "2021-06-30T06:12:03.986Z",
+    "startDate": "2021-03-03T15:50:47.587Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+    "completedDate": "2021-04-12T18:42:19.702Z",
+    "startDate": "2020-11-13T23:25:09.691Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "dc2c9c95-81ce-48d7-b99f-b300575373fe",
+    "completedDate": "2021-03-01T14:00:31.512Z",
+    "startDate": "2021-01-23T20:27:58.817Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "1b34818a-5d6f-4537-8266-398db47c786e",
+    "completedDate": "2021-07-27T12:39:15.065Z",
+    "startDate": "2021-05-19T22:38:40.030Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "364df166-d9e4-4d86-8160-c112a6aecc52",
+    "completedDate": "2021-08-31T18:05:43.528Z",
+    "startDate": "2021-08-30T18:07:12.702Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "6516f845-9742-4e84-bf92-dbaf024029f5",
+    "completedDate": "2021-04-08T14:50:44.640Z",
+    "startDate": "2021-02-26T07:56:14.886Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+    "completedDate": "2021-07-08T21:48:11.018Z",
+    "startDate": "2021-05-31T23:03:29.473Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "596f1d83-63db-49e5-bb15-5236b40d4f45",
+    "completedDate": "2021-06-10T10:36:55.758Z",
+    "startDate": "2021-06-03T09:57:01.349Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "235eb8df-e224-43ee-9aea-567e9f33b675",
+    "completedDate": "2021-07-26T19:39:25.560Z",
+    "startDate": "2021-03-14T01:10:35.224Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+    "completedDate": "2021-07-26T07:31:19.723Z",
+    "startDate": "2021-05-11T08:37:36.767Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "8eb38f5c-a281-4b49-a303-ecdb9898e96b",
+    "completedDate": "2021-07-13T02:02:40.608Z",
+    "startDate": "2021-06-18T02:28:05.010Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+    "completedDate": "2021-08-22T08:18:18.851Z",
+    "startDate": "2021-07-11T14:45:56.153Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+    "completedDate": "2021-05-20T17:11:53.820Z",
+    "startDate": "2021-02-08T22:01:58.145Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+    "completedDate": "2021-07-18T10:17:45.973Z",
+    "startDate": "2021-05-26T04:32:16.652Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "69491f48-6602-4092-bde0-8e240ea5dd68",
+    "completedDate": "2021-04-28T05:56:02.044Z",
+    "startDate": "2021-02-12T09:59:48.597Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "f5b8371d-659a-4831-90df-eedce9e2e114",
+    "completedDate": "2021-08-14T15:55:51.782Z",
+    "startDate": "2021-07-24T05:44:42.874Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "9eb6617d-6ea4-44fb-ba2b-6938a825bb4a",
+    "completedDate": "2021-06-23T13:04:00.296Z",
+    "startDate": "2021-04-27T02:10:42.964Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+    "completedDate": "2021-07-11T00:45:12.729Z",
+    "startDate": "2021-05-07T08:13:51.270Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+    "completedDate": "2021-04-01T21:53:16.142Z",
+    "startDate": "2021-02-08T11:52:05.743Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+    "completedDate": "2021-06-22T08:55:45.578Z",
+    "startDate": "2021-04-26T22:51:30.891Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "923f2b06-7bf9-45ec-a362-ad81ebd86137",
+    "completedDate": "2021-08-10T04:40:46.294Z",
+    "startDate": "2021-04-29T03:41:36.809Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "dc2c9c95-81ce-48d7-b99f-b300575373fe",
+    "completedDate": "2021-06-07T12:30:34.067Z",
+    "startDate": "2021-03-02T08:30:37.101Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "828025e4-ed38-473b-9176-3dbe23be6c16",
+    "completedDate": "2021-08-21T01:54:40.204Z",
+    "startDate": "2021-05-07T22:18:24.518Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "e43b13b5-42aa-4a8f-8cfe-af2b2e1bfa66",
+    "completedDate": "2021-09-03T06:16:30.114Z",
+    "startDate": "2021-08-29T04:45:57.057Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+    "completedDate": "2021-07-14T21:51:20.970Z",
+    "startDate": "2021-01-25T00:55:44.640Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "a1ab041f-a49d-4fa0-9e15-97a60ad4f0a1",
+    "completedDate": "2021-08-12T16:37:22.190Z",
+    "startDate": "2021-07-22T06:15:11.969Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+    "completedDate": "2021-02-19T20:52:09.430Z",
+    "startDate": "2020-11-29T00:44:16.699Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+    "completedDate": "2021-07-27T02:50:43.746Z",
+    "startDate": "2021-04-21T12:19:27.155Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+    "completedDate": "2021-07-28T19:43:52.070Z",
+    "startDate": "2021-01-01T02:12:21.501Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "8eb38f5c-a281-4b49-a303-ecdb9898e96b",
+    "completedDate": "2021-07-22T16:44:24.828Z",
+    "startDate": "2021-07-03T14:45:27.130Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-08-16T04:42:32.383Z",
+    "startDate": "2021-07-22T18:09:48.199Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2021-07-31T00:59:08.072Z",
+    "startDate": "2021-01-24T19:22:15.783Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "828025e4-ed38-473b-9176-3dbe23be6c16",
+    "completedDate": "2021-07-27T18:09:50.049Z",
+    "startDate": "2021-02-21T10:00:07.195Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+    "completedDate": "2021-08-13T21:01:33.284Z",
+    "startDate": "2021-08-07T12:27:13.252Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+    "completedDate": "2021-08-27T17:59:09.711Z",
+    "startDate": "2021-08-27T00:34:43.510Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "235eb8df-e224-43ee-9aea-567e9f33b675",
+    "completedDate": "2021-08-18T16:57:02.100Z",
+    "startDate": "2021-02-01T07:02:08.263Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "9b728ea9-752c-4c1f-a5ee-b740dc42d718",
+    "completedDate": "2021-08-29T23:31:07.110Z",
+    "startDate": "2021-08-11T20:24:43.032Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-06-05T17:21:24.194Z",
+    "startDate": "2021-02-12T10:47:13.134Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "b6cdf6bf-9598-4856-a72e-de48cfffb728",
+    "completedDate": "2021-07-21T20:08:41.444Z",
+    "startDate": "2021-03-06T16:04:43.782Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "69491f48-6602-4092-bde0-8e240ea5dd68",
+    "completedDate": "2021-03-22T19:47:52.997Z",
+    "startDate": "2021-02-25T16:24:38.682Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+    "completedDate": "2021-08-30T07:58:39.852Z",
+    "startDate": "2021-05-09T22:11:39.883Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+    "completedDate": "2021-06-16T18:36:19.169Z",
+    "startDate": "2021-05-23T13:41:54.150Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "4e034428-23ee-4b55-80c0-25546b1757f3",
+    "completedDate": "2021-03-15T23:10:21.910Z",
+    "startDate": "2021-01-21T12:10:22.893Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "923f2b06-7bf9-45ec-a362-ad81ebd86137",
+    "completedDate": "2021-05-03T12:50:57.017Z",
+    "startDate": "2021-04-04T08:23:54.794Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "6237b65b-6a0b-4add-acec-a37fff834804",
+    "completedDate": "2021-08-08T02:17:23.184Z",
+    "startDate": "2021-07-09T07:13:10.021Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "f5b8371d-659a-4831-90df-eedce9e2e114",
+    "completedDate": "2021-08-28T00:45:46.265Z",
+    "startDate": "2021-05-11T23:40:02.136Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+    "completedDate": "2021-08-17T00:55:28.302Z",
+    "startDate": "2021-06-20T18:56:47.738Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "8eb38f5c-a281-4b49-a303-ecdb9898e96b",
+    "completedDate": "2021-06-03T07:09:25.345Z",
+    "startDate": "2021-01-30T10:10:29.785Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "b2483bc5-99b5-4bc0-8337-f78af5227272",
+    "completedDate": "2021-06-20T12:51:57.745Z",
+    "startDate": "2021-04-20T12:20:27.633Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "37be897b-8f3d-4f55-a046-a094654c2859",
+    "completedDate": "2021-05-01T09:36:51.453Z",
+    "startDate": "2021-01-27T12:24:59.683Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "b492386b-2b57-406e-b690-fc01ae8421c6",
+    "completedDate": "2021-08-19T21:39:45.716Z",
+    "startDate": "2021-08-14T09:58:48.924Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+    "completedDate": "2021-05-08T20:06:22.985Z",
+    "startDate": "2021-04-08T22:11:11.906Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+    "completedDate": "2021-08-17T02:06:08.881Z",
+    "startDate": "2021-07-26T15:44:25.379Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "6516f845-9742-4e84-bf92-dbaf024029f5",
+    "completedDate": "2021-08-09T01:26:17.718Z",
+    "startDate": "2021-04-06T08:21:00.507Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "1b34818a-5d6f-4537-8266-398db47c786e",
+    "completedDate": "2021-08-31T05:15:28.254Z",
+    "startDate": "2021-06-24T04:36:17.795Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "6516f845-9742-4e84-bf92-dbaf024029f5",
+    "completedDate": "2021-08-08T19:54:43.234Z",
+    "startDate": "2021-06-16T04:28:23.576Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "235eb8df-e224-43ee-9aea-567e9f33b675",
+    "completedDate": "2021-05-28T16:47:20.966Z",
+    "startDate": "2021-03-25T18:45:46.850Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "9eb6617d-6ea4-44fb-ba2b-6938a825bb4a",
+    "completedDate": "2021-08-30T20:11:15.043Z",
+    "startDate": "2021-07-31T09:54:06.002Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+    "completedDate": "2021-08-10T13:53:30.539Z",
+    "startDate": "2021-04-25T23:32:47.270Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "9b728ea9-752c-4c1f-a5ee-b740dc42d718",
+    "completedDate": "2021-08-19T03:19:16.468Z",
+    "startDate": "2021-08-16T13:20:34.007Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+    "completedDate": "2021-08-29T04:03:28.540Z",
+    "startDate": "2021-06-19T11:01:55.659Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+    "completedDate": "2021-07-16T23:57:43.527Z",
+    "startDate": "2021-04-18T08:59:24.161Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+    "completedDate": "2021-07-28T14:19:44.602Z",
+    "startDate": "2021-03-11T13:14:36.095Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "6237b65b-6a0b-4add-acec-a37fff834804",
+    "completedDate": "2021-09-03T00:15:46.519Z",
+    "startDate": "2021-09-01T21:01:05.377Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "923f2b06-7bf9-45ec-a362-ad81ebd86137",
+    "completedDate": "2021-07-21T18:52:38.493Z",
+    "startDate": "2021-05-11T02:44:30.229Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "9eb6617d-6ea4-44fb-ba2b-6938a825bb4a",
+    "completedDate": "2021-07-27T06:34:03.130Z",
+    "startDate": "2021-04-11T01:14:44.405Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+    "completedDate": "2021-07-24T06:12:24.904Z",
+    "startDate": "2021-04-20T06:24:44.606Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+    "completedDate": "2021-03-30T09:52:07.961Z",
+    "startDate": "2021-01-31T19:05:34.711Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+    "completedDate": "2021-06-24T13:27:24.643Z",
+    "startDate": "2020-12-24T05:00:49.206Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+    "completedDate": "2021-07-08T00:48:34.391Z",
+    "startDate": "2021-04-19T19:02:31.122Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "f5b8371d-659a-4831-90df-eedce9e2e114",
+    "completedDate": "2021-07-22T21:25:12.682Z",
+    "startDate": "2021-05-22T09:06:51.600Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "6516f845-9742-4e84-bf92-dbaf024029f5",
+    "completedDate": "2021-08-16T18:34:41.893Z",
+    "startDate": "2021-08-01T14:52:31.294Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "a8dad57f-3711-408b-b32a-f58c79f0df95",
+    "completedDate": "2021-08-20T10:30:14.335Z",
+    "startDate": "2021-06-02T23:41:38.293Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+    "completedDate": "2021-07-27T11:06:15.612Z",
+    "startDate": "2021-07-03T04:14:41.824Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "a3327af6-8572-477b-9ee0-a1755a881632",
+    "completedDate": "2021-08-18T20:58:41.216Z",
+    "startDate": "2021-08-05T10:09:26.748Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "a966240c-8004-45f7-904e-f4c0b1534a30",
+    "completedDate": "2021-08-06T22:32:45.546Z",
+    "startDate": "2021-06-22T10:20:34.827Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+    "completedDate": "2021-01-28T10:55:12.353Z",
+    "startDate": "2020-12-03T17:31:45.019Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "3791a8b6-ba07-4cdb-a525-4b86f96c463a",
+    "completedDate": "2021-08-23T23:09:47.099Z",
+    "startDate": "2021-08-19T07:35:58.302Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+    "completedDate": "2021-08-15T13:08:03.360Z",
+    "startDate": "2021-08-13T11:49:15.181Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+    "completedDate": "2021-07-31T21:31:26.117Z",
+    "startDate": "2021-05-08T14:16:53.936Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2021-07-21T16:14:23.565Z",
+    "startDate": "2021-04-13T09:06:08.678Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "6237b65b-6a0b-4add-acec-a37fff834804",
+    "completedDate": "2021-07-02T21:43:23.053Z",
+    "startDate": "2021-06-12T15:02:49.812Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+    "completedDate": "2021-08-19T19:04:14.636Z",
+    "startDate": "2021-08-09T08:20:41.927Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "37be897b-8f3d-4f55-a046-a094654c2859",
+    "completedDate": "2021-04-03T22:11:56.537Z",
+    "startDate": "2020-10-16T15:02:50.752Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+    "completedDate": "2021-08-27T16:11:14.883Z",
+    "startDate": "2021-08-27T08:51:26.259Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+    "completedDate": "2021-07-25T17:02:56.027Z",
+    "startDate": "2021-05-14T05:45:41.744Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+    "completedDate": "2021-07-20T08:17:21.056Z",
+    "startDate": "2021-07-12T19:19:54.099Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "596f1d83-63db-49e5-bb15-5236b40d4f45",
+    "completedDate": "2021-08-20T15:38:49.538Z",
+    "startDate": "2021-08-05T06:54:20.083Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+    "completedDate": "2021-07-17T06:28:28.920Z",
+    "startDate": "2021-07-14T16:39:26.220Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "69491f48-6602-4092-bde0-8e240ea5dd68",
+    "completedDate": "2021-08-09T15:55:12.828Z",
+    "startDate": "2021-07-17T10:43:56.016Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "235eb8df-e224-43ee-9aea-567e9f33b675",
+    "completedDate": "2021-08-12T11:03:27.972Z",
+    "startDate": "2021-08-04T22:52:45.925Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+    "completedDate": "2021-04-29T00:13:41.328Z",
+    "startDate": "2020-12-01T19:22:04.521Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+    "completedDate": "2021-07-29T18:43:13.623Z",
+    "startDate": "2021-05-23T12:23:55.779Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+    "completedDate": "2021-07-28T16:03:06.358Z",
+    "startDate": "2021-07-24T21:32:33.387Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "596f1d83-63db-49e5-bb15-5236b40d4f45",
+    "completedDate": "2021-05-24T23:00:22.794Z",
+    "startDate": "2020-11-28T17:28:55.666Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "4694a8cd-6985-442a-b4c3-98a809a13888",
+    "completedDate": "2021-07-30T18:03:09.304Z",
+    "startDate": "2021-01-08T16:50:26.006Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+    "completedDate": "2021-05-12T22:56:33.506Z",
+    "startDate": "2021-04-25T12:15:53.689Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "6516f845-9742-4e84-bf92-dbaf024029f5",
+    "completedDate": "2021-08-24T19:17:47.462Z",
+    "startDate": "2021-08-22T14:36:22.733Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+    "completedDate": "2021-07-07T11:58:34.502Z",
+    "startDate": "2021-07-06T02:38:49.758Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "6237b65b-6a0b-4add-acec-a37fff834804",
+    "completedDate": "2021-06-21T08:24:44.857Z",
+    "startDate": "2021-06-20T21:48:59.869Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "b6cdf6bf-9598-4856-a72e-de48cfffb728",
+    "completedDate": "2021-03-15T15:47:41.625Z",
+    "startDate": "2020-12-02T02:29:52.550Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "828025e4-ed38-473b-9176-3dbe23be6c16",
+    "completedDate": "2021-06-04T02:00:58.938Z",
+    "startDate": "2021-04-09T23:00:35.993Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+    "completedDate": "2021-08-15T17:39:00.913Z",
+    "startDate": "2021-04-01T23:28:47.884Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+    "completedDate": "2021-07-18T23:04:52.281Z",
+    "startDate": "2021-06-23T14:28:05.311Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2021-08-17T17:39:46.963Z",
+    "startDate": "2021-04-17T19:54:57.097Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+    "completedDate": "2021-07-25T01:35:36.417Z",
+    "startDate": "2021-07-17T16:02:02.325Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+    "completedDate": "2021-05-28T13:45:53.317Z",
+    "startDate": "2021-04-18T20:09:23.777Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+    "completedDate": "2021-08-26T05:03:57.648Z",
+    "startDate": "2021-08-22T03:02:08.908Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "364df166-d9e4-4d86-8160-c112a6aecc52",
+    "completedDate": "2021-08-02T14:19:54.282Z",
+    "startDate": "2020-12-25T21:40:26.915Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "596f1d83-63db-49e5-bb15-5236b40d4f45",
+    "completedDate": "2021-01-10T03:04:05.450Z",
+    "startDate": "2020-12-05T15:34:20.844Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+    "completedDate": "2021-04-25T14:51:29.287Z",
+    "startDate": "2021-02-23T05:19:56.995Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "a1ab041f-a49d-4fa0-9e15-97a60ad4f0a1",
+    "completedDate": "2021-07-29T18:54:01.826Z",
+    "startDate": "2021-05-31T04:44:58.806Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "235eb8df-e224-43ee-9aea-567e9f33b675",
+    "completedDate": "2021-08-28T06:03:03.543Z",
+    "startDate": "2021-08-16T05:01:32.640Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+    "completedDate": "2021-07-07T07:31:09.683Z",
+    "startDate": "2021-06-14T12:46:04.383Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+    "completedDate": "2021-08-29T11:49:47.497Z",
+    "startDate": "2021-08-14T03:30:52.021Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+    "completedDate": "2021-07-10T10:38:11.121Z",
+    "startDate": "2020-12-17T21:52:34.473Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2021-08-23T17:39:58.563Z",
+    "startDate": "2021-05-13T14:39:52.498Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+    "completedDate": "2021-05-25T08:15:03.837Z",
+    "startDate": "2020-12-18T22:55:27.957Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+    "completedDate": "2021-08-13T03:29:07.272Z",
+    "startDate": "2021-07-13T21:04:25.429Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "37be897b-8f3d-4f55-a046-a094654c2859",
+    "completedDate": "2021-07-11T02:01:11.963Z",
+    "startDate": "2021-03-08T11:51:45.720Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+    "completedDate": "2021-09-01T08:23:45.722Z",
+    "startDate": "2021-08-29T17:22:41.153Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "f5b8371d-659a-4831-90df-eedce9e2e114",
+    "completedDate": "2021-02-16T01:58:16.764Z",
+    "startDate": "2021-01-03T08:15:31.158Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+    "completedDate": "2021-08-25T21:04:12.802Z",
+    "startDate": "2021-08-09T09:50:32.635Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "b2483bc5-99b5-4bc0-8337-f78af5227272",
+    "completedDate": "2021-07-05T21:52:39.053Z",
+    "startDate": "2021-05-20T11:15:30.645Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-09-02T22:03:38.032Z",
+    "startDate": "2021-08-24T13:58:03.863Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+    "completedDate": "2021-05-06T11:31:55.096Z",
+    "startDate": "2021-04-08T13:26:53.267Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+    "completedDate": "2021-07-23T18:18:35.298Z",
+    "startDate": "2021-07-15T07:11:00.212Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2021-07-07T18:03:44.467Z",
+    "startDate": "2021-07-02T18:57:09.095Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-07-21T22:55:37.484Z",
+    "startDate": "2021-06-09T05:33:49.841Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2021-08-19T00:14:36.138Z",
+    "startDate": "2021-05-29T11:08:00.006Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "e43b13b5-42aa-4a8f-8cfe-af2b2e1bfa66",
+    "completedDate": "2021-03-04T23:33:08.643Z",
+    "startDate": "2021-01-17T22:33:27.138Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+    "completedDate": "2021-09-03T06:32:49.288Z",
+    "startDate": "2021-08-21T13:31:29.896Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "a8616076-7b2a-4d98-906a-157613d8aa01",
+    "completedDate": "2021-07-09T01:38:39.994Z",
+    "startDate": "2021-06-17T20:44:32.096Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+    "completedDate": "2021-08-09T21:50:47.948Z",
+    "startDate": "2021-05-25T02:47:28.511Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+    "completedDate": "2021-07-09T08:35:37.111Z",
+    "startDate": "2021-04-11T10:04:05.795Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-07-15T10:37:07.761Z",
+    "startDate": "2021-01-25T18:50:02.365Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+    "completedDate": "2021-03-13T09:39:49.869Z",
+    "startDate": "2021-03-12T10:24:17.837Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+    "completedDate": "2021-07-31T05:48:05.831Z",
+    "startDate": "2020-11-27T23:43:36.180Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2021-08-31T10:47:42.938Z",
+    "startDate": "2021-04-09T04:01:44.979Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+    "completedDate": "2021-08-21T02:27:09.735Z",
+    "startDate": "2021-07-05T19:07:00.804Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+    "completedDate": "2021-08-25T07:07:15.732Z",
+    "startDate": "2021-08-06T08:45:26.235Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "69491f48-6602-4092-bde0-8e240ea5dd68",
+    "completedDate": "2021-06-26T12:22:10.804Z",
+    "startDate": "2021-06-08T04:15:13.899Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+    "completedDate": "2021-07-16T03:21:16.719Z",
+    "startDate": "2021-05-08T07:14:06.797Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "b2483bc5-99b5-4bc0-8337-f78af5227272",
+    "completedDate": "2021-03-10T21:17:55.139Z",
+    "startDate": "2020-12-29T07:42:06.468Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+    "completedDate": "2021-08-02T22:28:40.523Z",
+    "startDate": "2021-06-18T10:54:32.658Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "1b34818a-5d6f-4537-8266-398db47c786e",
+    "completedDate": "2021-07-11T08:02:23.925Z",
+    "startDate": "2021-06-25T03:55:15.759Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+    "completedDate": "2021-06-27T23:31:15.216Z",
+    "startDate": "2021-02-06T12:39:21.821Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "9eb6617d-6ea4-44fb-ba2b-6938a825bb4a",
+    "completedDate": "2021-07-27T03:04:50.449Z",
+    "startDate": "2021-07-24T20:45:54.335Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+    "completedDate": "2021-02-22T15:01:08.237Z",
+    "startDate": "2021-02-13T06:07:34.651Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "364df166-d9e4-4d86-8160-c112a6aecc52",
+    "completedDate": "2021-06-02T06:59:32.947Z",
+    "startDate": "2021-01-02T23:47:27.360Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+    "completedDate": "2021-08-02T13:52:33.206Z",
+    "startDate": "2021-06-10T23:59:18.991Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+    "completedDate": "2021-05-28T03:35:30.465Z",
+    "startDate": "2021-04-15T11:32:09.704Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+    "completedDate": "2021-05-19T06:10:54.485Z",
+    "startDate": "2021-01-24T11:03:41.289Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "a966240c-8004-45f7-904e-f4c0b1534a30",
+    "completedDate": "2021-05-02T19:34:59.888Z",
+    "startDate": "2021-03-30T16:39:28.731Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+    "completedDate": "2021-07-31T11:50:15.349Z",
+    "startDate": "2021-06-30T22:33:02.135Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+    "completedDate": "2021-07-02T17:53:56.750Z",
+    "startDate": "2021-05-23T06:33:19.177Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+    "completedDate": "2021-08-27T13:15:14.485Z",
+    "startDate": "2021-05-02T19:25:58.442Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+    "completedDate": "2021-08-18T05:26:19.989Z",
+    "startDate": "2020-12-31T08:55:43.991Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+    "completedDate": "2021-08-15T21:15:26.591Z",
+    "startDate": "2021-03-13T17:58:40.150Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+    "completedDate": "2021-07-15T13:59:53.496Z",
+    "startDate": "2021-07-11T05:46:40.372Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+    "completedDate": "2021-08-18T23:53:53.913Z",
+    "startDate": "2021-07-15T09:32:14.994Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "1b34818a-5d6f-4537-8266-398db47c786e",
+    "completedDate": "2021-08-02T11:01:23.586Z",
+    "startDate": "2021-05-24T06:04:27.196Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+    "completedDate": "2021-05-27T06:44:48.454Z",
+    "startDate": "2021-04-27T16:04:41.294Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "a3327af6-8572-477b-9ee0-a1755a881632",
+    "completedDate": "2021-05-04T17:39:01.970Z",
+    "startDate": "2021-04-02T04:50:51.459Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "dc2c9c95-81ce-48d7-b99f-b300575373fe",
+    "completedDate": "2021-09-02T10:53:50.274Z",
+    "startDate": "2021-08-29T23:42:47.223Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "4694a8cd-6985-442a-b4c3-98a809a13888",
+    "completedDate": "2021-04-09T19:44:40.572Z",
+    "startDate": "2021-01-01T09:01:51.494Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+    "completedDate": "2021-08-26T20:07:38.178Z",
+    "startDate": "2021-06-14T22:02:06.435Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+    "completedDate": "2021-04-05T06:01:30.873Z",
+    "startDate": "2020-11-26T11:33:31.523Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "69491f48-6602-4092-bde0-8e240ea5dd68",
+    "completedDate": "2021-05-15T22:36:16.657Z",
+    "startDate": "2021-03-28T04:58:13.832Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+    "completedDate": "2021-08-07T09:12:29.767Z",
+    "startDate": "2021-07-04T05:50:19.341Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "a966240c-8004-45f7-904e-f4c0b1534a30",
+    "completedDate": "2021-08-20T23:32:11.291Z",
+    "startDate": "2021-05-03T06:04:52.842Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "a966240c-8004-45f7-904e-f4c0b1534a30",
+    "completedDate": "2021-08-11T19:00:32.388Z",
+    "startDate": "2021-04-29T05:36:42.334Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+    "completedDate": "2021-01-22T23:47:19.133Z",
+    "startDate": "2020-12-11T15:23:28.198Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "e43b13b5-42aa-4a8f-8cfe-af2b2e1bfa66",
+    "completedDate": "2021-08-29T12:20:21.371Z",
+    "startDate": "2021-08-28T22:24:22.165Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2021-07-18T16:12:14.153Z",
+    "startDate": "2021-03-09T21:23:44.462Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "a8dad57f-3711-408b-b32a-f58c79f0df95",
+    "completedDate": "2021-06-15T22:49:31.302Z",
+    "startDate": "2021-05-24T06:24:47.503Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2021-05-04T23:33:07.289Z",
+    "startDate": "2021-02-14T16:00:54.110Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "61a3e302-5e4f-4804-81d0-1ac82860199b",
+    "completedDate": "2021-07-24T06:39:13.084Z",
+    "startDate": "2021-04-12T02:30:24.370Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "828025e4-ed38-473b-9176-3dbe23be6c16",
+    "completedDate": "2021-05-04T00:05:53.656Z",
+    "startDate": "2021-04-19T22:39:33.606Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "61a3e302-5e4f-4804-81d0-1ac82860199b",
+    "completedDate": "2021-06-01T19:23:07.360Z",
+    "startDate": "2021-05-17T08:07:13.328Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "8eb38f5c-a281-4b49-a303-ecdb9898e96b",
+    "completedDate": "2021-07-20T14:21:34.405Z",
+    "startDate": "2021-04-04T04:46:22.367Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+    "completedDate": "2021-08-30T20:09:27.513Z",
+    "startDate": "2021-06-05T20:44:42.309Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+    "completedDate": "2020-12-15T21:49:34.103Z",
+    "startDate": "2020-12-08T05:27:37.309Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+    "completedDate": "2021-06-24T01:43:49.129Z",
+    "startDate": "2021-04-05T03:33:11.831Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+    "completedDate": "2021-09-01T03:52:06.759Z",
+    "startDate": "2021-08-30T02:31:02.275Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+    "completedDate": "2021-08-25T22:41:52.821Z",
+    "startDate": "2020-11-12T12:30:29.241Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+    "completedDate": "2021-04-24T04:59:37.017Z",
+    "startDate": "2021-04-16T06:14:38.203Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+    "completedDate": "2021-06-02T15:37:54.270Z",
+    "startDate": "2021-01-02T14:58:37.117Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+    "completedDate": "2021-07-13T05:48:55.130Z",
+    "startDate": "2021-05-06T15:11:21.268Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+    "completedDate": "2021-05-21T16:25:08.015Z",
+    "startDate": "2021-02-27T17:17:17.302Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "9b728ea9-752c-4c1f-a5ee-b740dc42d718",
+    "completedDate": "2021-08-21T22:34:15.552Z",
+    "startDate": "2021-08-20T09:07:22.364Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+    "completedDate": "2021-08-29T22:03:45.134Z",
+    "startDate": "2021-05-05T02:21:50.539Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+    "completedDate": "2021-05-25T17:42:59.288Z",
+    "startDate": "2021-04-05T21:20:35.036Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+    "completedDate": "2021-07-28T00:33:59.664Z",
+    "startDate": "2021-07-09T16:10:23.402Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "596f1d83-63db-49e5-bb15-5236b40d4f45",
+    "completedDate": "2021-08-26T06:33:49.076Z",
+    "startDate": "2021-06-10T18:34:17.783Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+    "completedDate": "2021-08-13T12:22:05.953Z",
+    "startDate": "2021-07-29T23:35:29.880Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+    "completedDate": "2021-08-13T19:34:36.289Z",
+    "startDate": "2021-02-08T14:13:43.005Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "a966240c-8004-45f7-904e-f4c0b1534a30",
+    "completedDate": "2021-08-20T16:48:29.280Z",
+    "startDate": "2021-07-23T16:06:06.564Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-08-29T13:25:27.188Z",
+    "startDate": "2021-08-15T18:12:42.676Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "a1ab041f-a49d-4fa0-9e15-97a60ad4f0a1",
+    "completedDate": "2021-08-07T03:21:18.097Z",
+    "startDate": "2021-07-21T04:04:24.061Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "5ce3ccf2-8126-47e2-a973-be7c1ed8ffe9",
+    "completedDate": "2021-07-14T06:01:05.149Z",
+    "startDate": "2020-11-28T10:31:24.936Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+    "completedDate": "2021-08-30T20:46:17.673Z",
+    "startDate": "2021-08-03T16:17:03.046Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+    "completedDate": "2021-03-30T23:24:36.170Z",
+    "startDate": "2020-11-21T02:15:42.391Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+    "completedDate": "2021-05-04T06:37:22.390Z",
+    "startDate": "2021-01-02T23:52:29.189Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "9b728ea9-752c-4c1f-a5ee-b740dc42d718",
+    "completedDate": "2021-08-14T22:05:19.569Z",
+    "startDate": "2021-08-05T20:52:22.821Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "f5b8371d-659a-4831-90df-eedce9e2e114",
+    "completedDate": "2021-08-01T04:29:00.677Z",
+    "startDate": "2021-06-14T17:47:24.393Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "9b728ea9-752c-4c1f-a5ee-b740dc42d718",
+    "completedDate": "2021-08-12T23:28:57.881Z",
+    "startDate": "2021-04-02T04:47:20.059Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+    "completedDate": "2021-08-28T02:19:21.872Z",
+    "startDate": "2021-02-19T12:03:07.701Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "364df166-d9e4-4d86-8160-c112a6aecc52",
+    "completedDate": "2021-05-22T16:38:13.046Z",
+    "startDate": "2021-05-12T02:27:06.411Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "923f2b06-7bf9-45ec-a362-ad81ebd86137",
+    "completedDate": "2021-06-16T02:55:36.881Z",
+    "startDate": "2021-05-01T12:59:24.247Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+    "completedDate": "2021-08-13T23:31:21.732Z",
+    "startDate": "2021-07-12T17:39:39.780Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "a3327af6-8572-477b-9ee0-a1755a881632",
+    "completedDate": "2021-03-22T03:01:14.539Z",
+    "startDate": "2021-01-13T18:52:46.194Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+    "completedDate": "2021-02-04T12:46:01.827Z",
+    "startDate": "2020-10-24T02:47:03.705Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "1b34818a-5d6f-4537-8266-398db47c786e",
+    "completedDate": "2021-04-06T10:07:18.098Z",
+    "startDate": "2021-03-31T14:17:40.760Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "235eb8df-e224-43ee-9aea-567e9f33b675",
+    "completedDate": "2021-03-19T19:47:15.618Z",
+    "startDate": "2020-12-12T06:02:21.039Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "235eb8df-e224-43ee-9aea-567e9f33b675",
+    "completedDate": "2021-05-18T18:40:39.893Z",
+    "startDate": "2020-11-04T07:33:53.055Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+    "completedDate": "2021-08-28T05:00:11.336Z",
+    "startDate": "2021-08-27T05:23:18.042Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+    "completedDate": "2021-08-18T17:01:47.292Z",
+    "startDate": "2021-07-07T20:02:27.841Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+    "completedDate": "2021-09-01T01:53:19.077Z",
+    "startDate": "2021-05-20T13:07:45.854Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "923f2b06-7bf9-45ec-a362-ad81ebd86137",
+    "completedDate": "2021-02-19T16:54:15.064Z",
+    "startDate": "2021-02-02T22:08:45.228Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "b2483bc5-99b5-4bc0-8337-f78af5227272",
+    "completedDate": "2021-06-30T10:06:06.011Z",
+    "startDate": "2021-05-02T17:32:36.400Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "b2483bc5-99b5-4bc0-8337-f78af5227272",
+    "completedDate": "2021-05-31T10:50:46.637Z",
+    "startDate": "2021-04-10T05:35:00.920Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "61a3e302-5e4f-4804-81d0-1ac82860199b",
+    "completedDate": "2021-08-12T14:03:48.146Z",
+    "startDate": "2021-08-02T04:37:06.272Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "6516f845-9742-4e84-bf92-dbaf024029f5",
+    "completedDate": "2021-08-02T20:37:07.454Z",
+    "startDate": "2020-12-19T04:27:25.107Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "a1ab041f-a49d-4fa0-9e15-97a60ad4f0a1",
+    "completedDate": "2021-06-08T22:19:54.494Z",
+    "startDate": "2021-01-06T04:03:05.589Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+    "completedDate": "2021-08-28T13:24:38.004Z",
+    "startDate": "2021-04-28T20:09:37.099Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "6237b65b-6a0b-4add-acec-a37fff834804",
+    "completedDate": "2021-06-26T04:58:12.157Z",
+    "startDate": "2021-06-04T22:20:08.605Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "25a436e7-1be4-4ceb-a747-8e9826db830b",
+    "completedDate": "2021-07-28T18:30:25.831Z",
+    "startDate": "2021-04-17T09:38:50.024Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "b2483bc5-99b5-4bc0-8337-f78af5227272",
+    "completedDate": "2021-06-22T15:22:42.384Z",
+    "startDate": "2021-03-07T11:36:14.151Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+    "completedDate": "2021-08-29T23:08:20.771Z",
+    "startDate": "2021-06-23T12:52:58.802Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "a8616076-7b2a-4d98-906a-157613d8aa01",
+    "completedDate": "2021-07-04T21:21:29.512Z",
+    "startDate": "2021-06-03T04:09:54.838Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+    "completedDate": "2021-09-01T12:44:17.167Z",
+    "startDate": "2021-08-25T14:46:23.556Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+    "completedDate": "2021-07-16T22:57:35.803Z",
+    "startDate": "2021-06-25T05:43:21.546Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "b2483bc5-99b5-4bc0-8337-f78af5227272",
+    "completedDate": "2021-07-05T07:54:02.947Z",
+    "startDate": "2020-11-04T13:52:54.052Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "596f1d83-63db-49e5-bb15-5236b40d4f45",
+    "completedDate": "2021-02-12T07:39:05.656Z",
+    "startDate": "2020-11-25T06:25:48.193Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+    "completedDate": "2021-08-29T01:57:53.265Z",
+    "startDate": "2021-08-24T14:17:51.695Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+    "completedDate": "2021-05-15T11:24:07.220Z",
+    "startDate": "2021-01-04T21:49:29.065Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "a8616076-7b2a-4d98-906a-157613d8aa01",
+    "completedDate": "2021-07-17T05:48:26.741Z",
+    "startDate": "2021-04-14T21:06:57.313Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-06-20T00:21:38.745Z",
+    "startDate": "2021-05-28T08:24:03.988Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+    "completedDate": "2021-05-20T10:06:57.926Z",
+    "startDate": "2021-01-20T20:12:22.993Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "a966240c-8004-45f7-904e-f4c0b1534a30",
+    "completedDate": "2021-09-02T21:58:30.696Z",
+    "startDate": "2021-09-01T05:21:44.935Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+    "completedDate": "2021-06-12T21:45:58.019Z",
+    "startDate": "2020-11-07T13:52:30.310Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+    "completedDate": "2021-05-15T15:13:20.055Z",
+    "startDate": "2021-04-13T06:54:18.489Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "a3327af6-8572-477b-9ee0-a1755a881632",
+    "completedDate": "2021-08-07T18:43:00.766Z",
+    "startDate": "2021-05-07T12:25:30.190Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+    "completedDate": "2021-08-01T00:04:52.106Z",
+    "startDate": "2021-07-10T02:22:53.495Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+    "completedDate": "2021-03-04T02:46:20.467Z",
+    "startDate": "2020-12-15T01:38:05.260Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "4e034428-23ee-4b55-80c0-25546b1757f3",
+    "completedDate": "2021-07-12T14:41:14.908Z",
+    "startDate": "2021-06-19T21:12:15.803Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "e43b13b5-42aa-4a8f-8cfe-af2b2e1bfa66",
+    "completedDate": "2021-08-25T19:24:49.097Z",
+    "startDate": "2021-05-21T09:26:13.850Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "596f1d83-63db-49e5-bb15-5236b40d4f45",
+    "completedDate": "2021-03-24T17:20:53.981Z",
+    "startDate": "2021-02-21T15:24:14.370Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "6237b65b-6a0b-4add-acec-a37fff834804",
+    "completedDate": "2021-07-28T18:25:47.997Z",
+    "startDate": "2021-05-18T22:41:55.809Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "a1ab041f-a49d-4fa0-9e15-97a60ad4f0a1",
+    "completedDate": "2021-05-09T14:34:58.731Z",
+    "startDate": "2020-12-28T14:30:08.732Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "22d67a9a-c37d-4758-a399-7f3765ab59e8",
+    "completedDate": "2021-07-14T14:01:38.505Z",
+    "startDate": "2021-04-23T01:08:35.052Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+    "completedDate": "2021-07-20T02:06:21.550Z",
+    "startDate": "2021-07-14T02:44:30.532Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "a1ab041f-a49d-4fa0-9e15-97a60ad4f0a1",
+    "completedDate": "2021-07-10T20:23:44.123Z",
+    "startDate": "2021-06-04T10:16:57.764Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "6516f845-9742-4e84-bf92-dbaf024029f5",
+    "completedDate": "2021-04-07T07:51:49.649Z",
+    "startDate": "2020-10-29T10:22:18.144Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "364df166-d9e4-4d86-8160-c112a6aecc52",
+    "completedDate": "2021-04-23T14:51:23.084Z",
+    "startDate": "2021-04-11T10:34:41.809Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+    "completedDate": "2021-07-10T18:20:07.224Z",
+    "startDate": "2021-02-06T01:19:47.303Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "8d9d2451-48b5-428a-9f69-6399762ccf6b",
+    "completedDate": "2021-08-27T00:07:12.717Z",
+    "startDate": "2021-06-26T17:48:59.058Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "b492386b-2b57-406e-b690-fc01ae8421c6",
+    "completedDate": "2021-08-14T18:13:38.300Z",
+    "startDate": "2021-06-26T14:21:24.339Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "4e034428-23ee-4b55-80c0-25546b1757f3",
+    "completedDate": "2021-03-22T13:58:14.064Z",
+    "startDate": "2021-01-10T06:26:31.583Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+    "completedDate": "2021-08-28T16:55:43.512Z",
+    "startDate": "2021-08-15T08:33:02.372Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "f3f96172-9ba1-4573-a21d-847a64f246ab",
+    "completedDate": "2021-08-25T12:38:51.595Z",
+    "startDate": "2021-07-13T01:26:31.665Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+    "completedDate": "2021-07-29T06:43:30.818Z",
+    "startDate": "2021-07-20T02:01:50.237Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "f5b8371d-659a-4831-90df-eedce9e2e114",
+    "completedDate": "2021-08-18T18:34:21.249Z",
+    "startDate": "2021-07-26T01:57:44.814Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-02-10T08:04:19.486Z",
+    "startDate": "2020-12-29T12:44:55.445Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2021-08-29T21:45:14.118Z",
+    "startDate": "2021-08-17T19:23:37.970Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "815fcee1-abf4-4bd1-8eb8-48a521f4bca6",
+    "completedDate": "2021-07-16T07:56:26.179Z",
+    "startDate": "2020-12-27T09:58:03.188Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "69491f48-6602-4092-bde0-8e240ea5dd68",
+    "completedDate": "2021-05-31T10:53:20.544Z",
+    "startDate": "2021-03-23T08:58:21.975Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "f5b8371d-659a-4831-90df-eedce9e2e114",
+    "completedDate": "2021-08-21T15:00:38.219Z",
+    "startDate": "2020-12-19T03:19:00.837Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+    "completedDate": "2021-05-25T17:50:23.645Z",
+    "startDate": "2021-04-04T16:59:56.905Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+    "completedDate": "2021-08-03T13:27:16.674Z",
+    "startDate": "2021-06-18T18:27:20.142Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+    "completedDate": "2021-05-01T04:27:05.188Z",
+    "startDate": "2021-04-01T18:36:33.032Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+    "completedDate": "2021-08-06T16:31:28.110Z",
+    "startDate": "2021-05-19T01:18:59.952Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+    "completedDate": "2021-08-29T17:04:40.618Z",
+    "startDate": "2021-07-28T20:07:09.618Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "6516f845-9742-4e84-bf92-dbaf024029f5",
+    "completedDate": "2021-07-03T03:35:16.847Z",
+    "startDate": "2021-01-11T13:40:26.013Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+    "completedDate": "2021-07-23T00:35:59.407Z",
+    "startDate": "2021-04-12T01:36:55.659Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "37be897b-8f3d-4f55-a046-a094654c2859",
+    "completedDate": "2021-06-17T12:28:15.862Z",
+    "startDate": "2020-12-20T05:40:59.102Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2020-11-28T00:29:01.228Z",
+    "startDate": "2020-11-05T22:00:39.057Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+    "completedDate": "2021-08-25T09:19:22.915Z",
+    "startDate": "2021-07-17T09:14:35.989Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "b492386b-2b57-406e-b690-fc01ae8421c6",
+    "completedDate": "2021-08-11T11:15:25.425Z",
+    "startDate": "2021-01-04T21:02:21.834Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+    "completedDate": "2021-08-18T15:28:29.791Z",
+    "startDate": "2021-05-20T09:40:56.084Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "4694a8cd-6985-442a-b4c3-98a809a13888",
+    "completedDate": "2021-09-03T03:52:28.946Z",
+    "startDate": "2021-08-31T08:11:30.376Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "37be897b-8f3d-4f55-a046-a094654c2859",
+    "completedDate": "2021-07-18T04:11:08.254Z",
+    "startDate": "2021-07-11T19:05:53.037Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "c0b33a92-9df9-4454-b13f-d9dc5ae421e9",
+    "completedDate": "2021-08-18T22:16:00.845Z",
+    "startDate": "2021-06-13T21:29:29.953Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "828025e4-ed38-473b-9176-3dbe23be6c16",
+    "completedDate": "2021-07-22T11:46:39.798Z",
+    "startDate": "2021-05-26T09:08:40.820Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "b820691d-f2b7-4e44-8bbf-b1e4dec47bcb",
+    "completedDate": "2021-03-12T10:39:29.998Z",
+    "startDate": "2020-12-09T01:14:34.608Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "6237b65b-6a0b-4add-acec-a37fff834804",
+    "completedDate": "2021-06-30T01:43:54.774Z",
+    "startDate": "2021-01-24T08:23:23.190Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+    "completedDate": "2021-08-24T05:51:18.930Z",
+    "startDate": "2021-03-17T08:44:58.944Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "abd18ed9-7ab2-4be5-a4b9-ec2df184fa1b",
+    "completedDate": "2021-08-30T02:36:22.701Z",
+    "startDate": "2021-08-20T18:10:42.691Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-07-31T22:18:50.259Z",
+    "startDate": "2021-07-26T14:27:17.161Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "a8dad57f-3711-408b-b32a-f58c79f0df95",
+    "completedDate": "2021-05-16T12:18:29.684Z",
+    "startDate": "2021-02-12T16:08:44.485Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "285d6cc1-3cef-4c5a-922c-b5a1c61cee64",
+    "completedDate": "2021-08-25T23:57:20.107Z",
+    "startDate": "2021-05-05T21:26:09.838Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+    "completedDate": "2021-02-06T04:07:47.117Z",
+    "startDate": "2021-01-22T16:55:08.987Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "890b9cf2-61e2-457b-ae23-a3481aae66bb",
+    "completedDate": "2021-08-18T04:59:44.531Z",
+    "startDate": "2021-07-10T06:58:05.388Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+    "completedDate": "2021-08-28T15:27:09.759Z",
+    "startDate": "2021-08-07T08:12:24.766Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+    "completedDate": "2021-04-19T08:02:51.422Z",
+    "startDate": "2021-03-02T16:19:13.680Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "6237b65b-6a0b-4add-acec-a37fff834804",
+    "completedDate": "2021-08-21T12:49:32.803Z",
+    "startDate": "2021-08-01T07:13:01.049Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "e202bd24-c84f-437c-8062-3c5d2b174b67",
+    "completedDate": "2021-07-26T11:05:25.744Z",
+    "startDate": "2021-06-22T21:47:41.952Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "f5b8371d-659a-4831-90df-eedce9e2e114",
+    "completedDate": "2021-08-12T03:53:16.135Z",
+    "startDate": "2021-08-09T05:29:46.984Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "654af1f0-8038-48c4-be3b-2503e8982d5b",
+    "completedDate": "2021-02-09T05:25:07.889Z",
+    "startDate": "2021-01-10T17:21:57.888Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-02-04T17:00:24.243Z",
+    "startDate": "2021-02-01T15:58:48.219Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "b6cdf6bf-9598-4856-a72e-de48cfffb728",
+    "completedDate": "2021-04-07T06:47:20.294Z",
+    "startDate": "2021-02-21T12:15:22.364Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "9eb6617d-6ea4-44fb-ba2b-6938a825bb4a",
+    "completedDate": "2021-07-25T03:31:44.616Z",
+    "startDate": "2021-03-28T18:08:33.072Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "e43b13b5-42aa-4a8f-8cfe-af2b2e1bfa66",
+    "completedDate": "2021-07-24T11:58:47.259Z",
+    "startDate": "2021-04-07T21:10:21.072Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+    "completedDate": "2021-08-13T19:57:22.732Z",
+    "startDate": "2021-07-20T22:01:22.710Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "4caf999e-23f9-420f-90cb-5787c0f043bc",
+    "completedDate": "2021-08-12T17:43:53.211Z",
+    "startDate": "2021-05-18T20:14:13.623Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "6237b65b-6a0b-4add-acec-a37fff834804",
+    "completedDate": "2021-08-25T09:31:48.168Z",
+    "startDate": "2021-06-21T04:11:52.874Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "4f9bcf26-0f27-45aa-bf34-3e4453b4ed2f",
+    "completedDate": "2021-07-16T05:07:38.646Z",
+    "startDate": "2021-07-04T04:23:50.954Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+    "completedDate": "2021-06-12T18:34:14.543Z",
+    "startDate": "2021-02-15T11:04:17.654Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "dc2c9c95-81ce-48d7-b99f-b300575373fe",
+    "completedDate": "2021-08-21T18:47:37.735Z",
+    "startDate": "2021-07-17T21:58:39.701Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+    "completedDate": "2021-07-31T01:52:08.416Z",
+    "startDate": "2021-02-14T09:06:51.144Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "cc306a9f-df8a-4113-a7c8-0023919d7a90",
+    "completedDate": "2021-06-07T12:39:33.261Z",
+    "startDate": "2021-04-22T22:31:08.351Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "f5b8371d-659a-4831-90df-eedce9e2e114",
+    "completedDate": "2021-04-28T00:07:22.936Z",
+    "startDate": "2021-02-21T20:01:49.598Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "828025e4-ed38-473b-9176-3dbe23be6c16",
+    "completedDate": "2021-02-28T22:44:15.658Z",
+    "startDate": "2021-01-03T06:35:19.314Z"
+  },
+  {
+    "course": "46c2e256-d0ff-4dd0-bfc6-4fdd6566254d",
+    "user": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+    "completedDate": "2021-07-24T14:46:58.600Z",
+    "startDate": "2021-07-18T18:24:08.483Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+    "completedDate": "2021-08-18T10:08:59.951Z",
+    "startDate": "2021-03-17T23:50:01.742Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "3d996278-5f94-47ca-a226-cecceeb11ee4",
+    "completedDate": "2021-08-06T20:58:16.669Z",
+    "startDate": "2021-07-08T21:10:01.395Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "e91bd3ab-79b0-480d-ad15-5941449cd153",
+    "completedDate": "2021-07-05T15:36:30.864Z",
+    "startDate": "2021-04-29T10:33:32.158Z"
+  },
+  {
+    "course": "69d09a79-ed74-4b0e-9f8b-5d631e51ccf4",
+    "user": "04d36e8b-7c6a-4fab-9c08-38a8a3272e64",
+    "completedDate": "2021-03-27T08:36:48.307Z",
+    "startDate": "2021-02-03T10:35:11.472Z"
+  },
+  {
+    "course": "058cc9b5-9256-4290-ae9e-a3f1d8d65f91",
+    "user": "b3e526e2-9932-4b1d-b06f-1fb8f4c7e169",
+    "completedDate": "2021-08-20T02:57:43.722Z",
+    "startDate": "2021-08-17T12:47:44.069Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "4694a8cd-6985-442a-b4c3-98a809a13888",
+    "completedDate": "2021-08-15T06:50:35.800Z",
+    "startDate": "2021-07-21T01:05:33.269Z"
+  },
+  {
+    "course": "25198334-ce53-468e-906e-d4b5ead1e025",
+    "user": "8a07f810-1f8a-4b6a-8bfd-edba480ba93b",
+    "completedDate": "2021-08-16T07:37:30.493Z",
+    "startDate": "2021-08-14T22:35:11.967Z"
+  },
+  {
+    "course": "136b66b7-8392-42ab-af9a-021cb3c352ab",
+    "user": "7a05c53c-9fde-4a57-9bfd-8fe6a1c2340a",
+    "completedDate": "2021-08-12T18:25:59.760Z",
+    "startDate": "2021-06-19T12:37:13.082Z"
+  },
+  {
+    "course": "917beaaf-5be2-48a6-a83d-ab0fc2ab036d",
+    "user": "69491f48-6602-4092-bde0-8e240ea5dd68",
+    "completedDate": "2021-08-27T08:56:30.912Z",
+    "startDate": "2021-08-22T06:33:49.636Z"
+  }
+]

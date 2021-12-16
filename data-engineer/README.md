@@ -19,7 +19,7 @@ Given the data you are provided with, we would like you to build:
   - amount of certificates per customer
 - your solution does run in a local docker(-compose) setup
 
-## Bonus points
+## Bonus points, not mandatory
 
 - you provide a possibility to visualize the data in a ui tool with graphs
 - you provide addtional possibilities of analyzing the data via that ui tool (e.g. which times users start mostly, most frequent used courses, etc.)

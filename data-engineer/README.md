@@ -1,4 +1,4 @@
-# Challenge - Dashboard
+# Challenge - Courses and Certificates
 
 You are provided with 3 files:
 
@@ -10,17 +10,16 @@ You are provided with 3 files:
 
 Given the data you are provided with, we would like you to build:
 
-- A script that loads all 3 data sources and can generate a report of:
+- A script that loads all 3 data sources into a database structure
+- you provide the sql queries for the following analyzes
   - average complete time of a course
   - average amount of users time spent in a course
   - average amount of users time spent for each course individually
   - report of fastest vs. slowest users completing a course
   - amount of certificates per customer
-- the aggregated data is stored in a database
-- the report can be generated in different outputs: html, csv, json
+- your solution does run in a local docker(-compose) setup
 
 ## Bonus points
 
-- your solution does run in a local docker(-compose) setup
 - you provide a possibility to visualize the data in a ui tool with graphs
-- you provide addtional possibilities of analyzing the data (e.g. which times users start mostly, most frequent used courses, etc.)
+- you provide addtional possibilities of analyzing the data via that ui tool (e.g. which times users start mostly, most frequent used courses, etc.)

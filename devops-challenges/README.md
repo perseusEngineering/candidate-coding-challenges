@@ -1,9 +1,7 @@
 # DevOps Perseus Challenge 
 
-For this challenge we had the following scenario:
-
-You being part of a team, migrating they self hosted application to cloud environment.
-The stackholders of this project with product and tech team raised this task for your team with some acceptance criterias:
+You are part of a team that is migrating a self hosted application to a cloud environment. 
+The stakeholders of this task provided the following acceptance criteria:
 
 - The application will run in a minikube
 

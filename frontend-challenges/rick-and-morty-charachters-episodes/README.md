@@ -1,7 +1,7 @@
 # Challenge: Rick and Morty episodes in which my character appears
 As a user I would like to get a list of episodes to watch based on the character I choose.
 https://rickandmortyapi.com/documentation/
-* For simplicity purposes use the Rest API
+- For simplicity purposes use the Rest API
 
 ## Description
 - The character can be choose from a list or search by name.

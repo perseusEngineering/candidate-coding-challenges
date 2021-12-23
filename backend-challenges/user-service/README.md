@@ -1,12 +1,12 @@
 ### Challenge: User service
-The objective is to implement a rest-service which is able to:
+The objective of this exercise is to implement a rest-service which is able to:
 
-* create new user with contact data
-* return user by id
-* return user by name
-* add additional mail/phone data
-* update existing mail/phone data
-* delete user
+- Create new user with contact data
+- Return user by id
+- Return user by name
+- Add additional mail/phone data
+- Update existing mail/phone data
+- Delete user
 
 The data objects are defined as followed:
 ```
@@ -27,12 +27,12 @@ PhoneNumber:
 ```
 
 #### Constraints
-* you provide a straight forward documentation how to build and run the service
-* submitted data is stored in database (free choice which one)
-* free choice of following programming languages: Scala, Java, Python
+- You provide straightforward documentation how to build and run the service
+- Submitted data is stored in database (free choice which one)
+- You can only use the following programming languages: Scala, Java, Python
 
 
 #### Bonus
-* you let your service run within a container based environment (Docker, Kubernetes)
-* you provide a documentation of your services API endpoints
-* your service is covered with tests
+- You let your service run within a container based environment (Docker, Kubernetes)
+- You provide documentation of your services API endpoints
+- Your service is covered with tests

@@ -10,9 +10,9 @@ You are provided with 3 files:
 
 Given the data you are provided with, we would like you to build:
 
-- A service that exposes the data via API(s) to be consubme by a web page (UI)
+- A service that exposes the data via API(s) to be consumed by a web page (UI)
 - A web page that displays a report with:
-  - possibility to filter data per user
+  - The possibility to filter data per user
   - display general statistics
     - Average completion time
     - Who completed faster

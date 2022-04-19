@@ -27,6 +27,7 @@ There are 3 services that has to be implemented:
 - You provide straightforward documentation how to build and run the services
 - Your services are covered with tests
 - You can only use the following programming languages: Scala, Java, Python
+- If using Python, we strongly suggest not using the Django framework
 
 #### Bonus
 - All services have to run as standalone applications

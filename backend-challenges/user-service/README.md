@@ -30,7 +30,7 @@ PhoneNumber:
 - You provide straightforward documentation how to build and run the service
 - Submitted data is stored in database (free choice which one)
 - You can only use the following programming languages: Scala, Java, Python
-
+- If using Python, we strongly suggest not using the Django framework
 
 #### Bonus
 - You let your service run within a container based environment (Docker, Kubernetes)
